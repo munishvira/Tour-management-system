@@ -1,0 +1,132 @@
+/*----signin----*/
+.wrapper {
+margin-top: 80px;
+margin-bottom: 80px;
+}
+
+.form-signin {
+max-width: 380px;
+padding: 15px 35px 45px;
+margin: 0 auto;
+background-color: #fff;
+border: 1px solid rgba(0,0,0,0.1);
+}
+.form-signin-heading {
+  margin-bottom: 30px;
+}
+
+.form-control {
+  position: relative;
+  font-size: 16px;
+  height: auto;
+  padding: 10px;
+	}
+
+input[type="text"] {
+  margin-bottom: -1px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+input[type="password"] {
+  margin-bottom: 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+/*----/signin----*/
+/*--copyrights start here--*/
+.copy-right p {
+    color: #fff;
+    font-size: 18px;
+    line-height: 1.0em;
+    padding-left: 40px;
+}
+
+.copy-right p a {
+    color: #fff;
+}
+
+.copy-right {
+    background: #34ad00;
+    text-align: center;
+    padding: 0.5em 0;
+}
+/*----header----*/
+.page-container {
+    min-width: 991px;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0px auto;
+}
+.left-content {
+    float: right;
+    width: 81%;
+}
+.header-main {
+  padding:1em;
+  background:#fff;
+  box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  -o-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  -webkit-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+  -moz-box-shadow: 0 1px 1px rgba(0,0,0,.05);
+}
+.logo-w3-agile h1 {
+    margin: 0;
+    font-size: 35px;
+}
+.logo-w3-agile h1 a {
+    color: #fff;
+    text-transform: uppercase;
+    display: inline-block;
+}
+.logo-w3-agile {
+    background: #a2d200;
+    float: left;
+    width: 65.25%;
+    text-align: center;
+	 padding: 1em;
+	 margin-right: 1%;
+}
+/*----sidebarmenu*/
+.sidebar-menu {
+  position: fixed;
+  float: left;
+  width: 200px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  background-color: #333333;
+  color: #aaabae;
+}
+.menu {
+    text-align: left;
+}
+#menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li {
+    font-style: normal;
+    font-weight: 400;
+    position: relative;
+    display: block;
+    padding: 12px 20px;
+    color: #fff;
+    white-space: nowrap;
+    z-index: 2;
+    background-color: #333333;
+    font-size: 0.85em;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    border-left: 4px solid #333333;
+}
+#menu .fa {
+    margin-right: 5px;
+}
+/*----table----*/
